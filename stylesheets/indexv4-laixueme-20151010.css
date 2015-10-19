@@ -1,12 +1,15 @@
 .main-work{
-    background: url("../images/home-appcode001.jpg") center center no-repeat ;
+    background: url("../images/home-appcode003.jpg") center center no-repeat ;
 
 }
 
 .header .logo {
-    background: url("../images/laixuemeLogoYellow.png") 0 center no-repeat;
-    width: 165px;
+    background: url("../images/laixuemeLogoPure.png") 0 center no-repeat;
+    background-size: 165px auto
+;
+    width: 186px;
     background-size: cover;
+
 
 
 

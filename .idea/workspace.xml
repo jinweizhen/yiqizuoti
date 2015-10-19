@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ca89920-1cd2-448a-8a96-4b73c4cd3ed2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/indexv4-laixueme-20151010.css" afterPath="$PROJECT_DIR$/stylesheets/indexv4-laixueme-20151010.css" />
     </list>
     <ignored path="yiqizuoti.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.0355413">
-              <caret line="84" column="10" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
+            <state vertical-scroll-proportion="-4.0392156">
+              <caret line="46" column="42" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -56,6 +56,13 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="home-appcode.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/home-appcode.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="20121125160250_hvWzf.gif" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/20121125160250_hvWzf.gif">
           <provider selected="true" editor-type-id="images">
@@ -67,35 +74,6 @@
         <entry file="file://$PROJECT_DIR$/images/20131008125321_acJLF.gif">
           <provider selected="true" editor-type-id="images">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uservoice.vpage.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/help/uservoice.vpage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#6;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#7;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1444467990000" expanded="true" signature="24811:24850" placeholder="..." />
-                <marker date="1444467990000" expanded="true" signature="24945:24962" placeholder="..." />
-                <marker date="1444467990000" expanded="true" signature="25023:25033" placeholder="..." />
-              </folding>
-            </state>
           </provider>
         </entry>
       </file>
@@ -163,11 +141,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indexv4-laixueme-20151010.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="indexv4-laixueme-20151010.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/indexv4-laixueme-20151010.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.02238806">
+              <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -210,7 +188,6 @@
         <option value="$PROJECT_DIR$/stylesheets/jquery-impromptu-V20141207223127.css" />
         <option value="$PROJECT_DIR$/Scripts/DD_belatedPNG-V20150902231232.js" />
         <option value="$PROJECT_DIR$/help/uservoice.vpage" />
-        <option value="$PROJECT_DIR$/stylesheets/indexv4-laixueme-20151010.css" />
         <option value="$PROJECT_DIR$/help/uservoice.vpage.html" />
         <option value="$PROJECT_DIR$/help/jobs.vpage.html" />
         <option value="$PROJECT_DIR$/help/aboutus.vpage.html" />
@@ -218,6 +195,7 @@
         <option value="$PROJECT_DIR$/help/news/event.vpage.html" />
         <option value="$PROJECT_DIR$/stylesheets/indexv4.min-V20150923234423.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/stylesheets/indexv4-laixueme-20151010.css" />
       </list>
     </option>
   </component>
@@ -497,9 +475,9 @@
             <element signature="n#style#0;n#div#6;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1444467990000" expanded="true" signature="24811:24850" placeholder="..." />
-            <marker date="1444467990000" expanded="true" signature="24945:24962" placeholder="..." />
-            <marker date="1444467990000" expanded="true" signature="25023:25033" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -637,9 +615,9 @@
             <element signature="n#style#0;n#div#6;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1444467990000" expanded="true" signature="24811:24850" placeholder="..." />
-            <marker date="1444467990000" expanded="true" signature="24945:24962" placeholder="..." />
-            <marker date="1444467990000" expanded="true" signature="25023:25033" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -767,9 +745,9 @@
             <element signature="n#style#0;n#div#6;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1444467990000" expanded="true" signature="24811:24850" placeholder="..." />
-            <marker date="1444467990000" expanded="true" signature="24945:24962" placeholder="..." />
-            <marker date="1444467990000" expanded="true" signature="25023:25033" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -909,18 +887,10 @@
             <element signature="n#style#0;n#div#6;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#3;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1444467990000" expanded="true" signature="24811:24850" placeholder="..." />
-            <marker date="1444467990000" expanded="true" signature="24945:24962" placeholder="..." />
-            <marker date="1444467990000" expanded="true" signature="25023:25033" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444467990000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/indexv4-laixueme-20151010.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -998,10 +968,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/home-appcode.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.0355413">
-          <caret line="84" column="10" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
+        <state vertical-scroll-proportion="-4.0392156">
+          <caret line="46" column="42" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1026,6 +1001,14 @@
             <marker date="1445236887000" expanded="true" signature="89768:89785" placeholder="..." />
             <marker date="1445236887000" expanded="true" signature="89846:89856" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/indexv4-laixueme-20151010.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02238806">
+          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
